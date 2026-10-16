@@ -4,7 +4,8 @@
 
 I am a seasoned Java developer with over 10 years of experience specializing in Spring Boot, SQL with PostgreSQL, CI/CD practices, and AWS. I thrive on designing and implementing scalable Java-based applications using the latest frameworks and technologies.
 
-- 🔭 I’m currently working on [Dartness](https://github.com/RicardoRB/dartness)
+- 🔭 I’m currently working on [Sentinel-AI](https://github.com/RicardoRB/sentinel-ai)
+- 🔍 Also an interesting project [Dartness](https://github.com/RicardoRB/dartness)
 - 💬 Ask me about ... languages, travel, technology, programming
 - 📫 How to reach me: ricardo@programandoenjava.com
 - 😄 Pronouns: he/him
